@@ -1182,20 +1182,6 @@
             ]
         },
         {
-            "id": "https://vertx.io/blog/eclipse-vert-x-based-framework-url-shortener-backend",
-            "url": "https://vertx.io/blog/eclipse-vert-x-based-framework-url-shortener-backend",
-            "title": "Eclipse Vert.x based Framework URL Shortener Backend",
-            "summary": "We combine Vert.x with the serverless framework to write a microservice that runs on AWS Lambda.",
-            "date_modified": "2017-12-21T00:00:00.000Z",
-            "author": {
-                "name": "Lazar Bulić",
-                "url": "https://github.com/pendula95"
-            },
-            "tags": [
-                "guides"
-            ]
-        },
-        {
             "id": "https://vertx.io/blog/tcp-client-using-eclipse-vert-x-kotlin-and-gradle-build",
             "url": "https://vertx.io/blog/tcp-client-using-eclipse-vert-x-kotlin-and-gradle-build",
             "title": "TCP Client using Eclipse Vert.x, Kotlin and Gradle build",

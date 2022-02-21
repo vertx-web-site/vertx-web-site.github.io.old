@@ -4,7 +4,7 @@
         <title>Vert.x</title>
         <link>https://vertx.io</link>
         <description>Vert.x is a tool-kit for building reactive applications on the JVM</description>
-        <lastBuildDate>Sun, 20 Feb 2022 07:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 12:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Vert.x</generator>
         <language>en</language>
@@ -685,14 +685,6 @@
             <pubDate>Tue, 13 Feb 2018 00:00:00 GMT</pubDate>
             <description><![CDATA[We have just released Vert.x 3.5.1!]]></description>
             <category>releases</category>
-        </item>
-        <item>
-            <title><![CDATA[Eclipse Vert.x based Framework URL Shortener Backend]]></title>
-            <link>https://vertx.io/blog/eclipse-vert-x-based-framework-url-shortener-backend</link>
-            <guid>https://vertx.io/blog/eclipse-vert-x-based-framework-url-shortener-backend</guid>
-            <pubDate>Thu, 21 Dec 2017 00:00:00 GMT</pubDate>
-            <description><![CDATA[We combine Vert.x with the serverless framework to write a microservice that runs on AWS Lambda.]]></description>
-            <category>guides</category>
         </item>
         <item>
             <title><![CDATA[TCP Client using Eclipse Vert.x, Kotlin and Gradle build]]></title>

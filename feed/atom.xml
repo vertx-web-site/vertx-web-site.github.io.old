@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vertx.io</id>
     <title>Vert.x</title>
-    <updated>2022-02-20T07:50:33.581Z</updated>
+    <updated>2022-02-21T12:29:40.589Z</updated>
     <generator>Vert.x</generator>
     <link rel="alternate" href="https://vertx.io"/>
     <link rel="self" href="https://vertx.io/feed/atom.xml"/>
@@ -1029,18 +1029,6 @@
             <uri>https://github.com/vietj</uri>
         </author>
         <category label="releases"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eclipse Vert.x based Framework URL Shortener Backend]]></title>
-        <id>https://vertx.io/blog/eclipse-vert-x-based-framework-url-shortener-backend</id>
-        <link href="https://vertx.io/blog/eclipse-vert-x-based-framework-url-shortener-backend"/>
-        <updated>2017-12-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We combine Vert.x with the serverless framework to write a microservice that runs on AWS Lambda.]]></summary>
-        <author>
-            <name>Lazar Bulić</name>
-            <uri>https://github.com/pendula95</uri>
-        </author>
-        <category label="guides"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[TCP Client using Eclipse Vert.x, Kotlin and Gradle build]]></title>
