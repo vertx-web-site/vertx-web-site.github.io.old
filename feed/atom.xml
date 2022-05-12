@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vertx.io</id>
     <title>Vert.x</title>
-    <updated>2022-05-12T13:14:41.740Z</updated>
+    <updated>2022-05-12T13:45:48.729Z</updated>
     <generator>Vert.x</generator>
     <link rel="alternate" href="https://vertx.io"/>
     <link rel="self" href="https://vertx.io/feed/atom.xml"/>
@@ -13,11 +13,11 @@
     <category term="security"/>
     <category term="news"/>
     <entry>
-        <title type="html"><![CDATA[What's new in Vert.x 4.2]]></title>
-        <id>https://vertx.io/blog/whats-new-in-vert-x-4-2</id>
-        <link href="https://vertx.io/blog/whats-new-in-vert-x-4-2"/>
-        <updated>2021-10-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[See an overview of all new and exciting features in Vert.x 4.2, including Java 17 support, Vert.x Oracle Client and more.]]></summary>
+        <title type="html"><![CDATA[What's new in Vert.x 4.3]]></title>
+        <id>https://vertx.io/blog/whats-new-in-vert-x-4-3</id>
+        <link href="https://vertx.io/blog/whats-new-in-vert-x-4-3"/>
+        <updated>2022-05-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See an overview of all new and exciting features in Vert.x 4.3, including ... and more.]]></summary>
         <author>
             <name>Julien Viet</name>
             <uri>https://github.com/vietj</uri>
@@ -234,6 +234,18 @@
         <link href="https://vertx.io/blog/eclipse-vert-x-4-2-0"/>
         <updated>2021-10-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Eclipse Vert.x version 4.2.0 has just been released. It comes with a set of new exciting features!]]></summary>
+        <author>
+            <name>Julien Viet</name>
+            <uri>https://github.com/vietj</uri>
+        </author>
+        <category label="releases"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What's new in Vert.x 4.2]]></title>
+        <id>https://vertx.io/blog/whats-new-in-vert-x-4-2</id>
+        <link href="https://vertx.io/blog/whats-new-in-vert-x-4-2"/>
+        <updated>2021-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See an overview of all new and exciting features in Vert.x 4.2, including Java 17 support, Vert.x Oracle Client and more.]]></summary>
         <author>
             <name>Julien Viet</name>
             <uri>https://github.com/vietj</uri>
