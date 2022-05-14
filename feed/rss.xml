@@ -4,7 +4,7 @@
         <title>Vert.x</title>
         <link>https://vertx.io</link>
         <description>Vert.x is a tool-kit for building reactive applications on the JVM</description>
-        <lastBuildDate>Sat, 14 May 2022 07:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 May 2022 07:51:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Vert.x</generator>
         <language>en</language>
@@ -17,7 +17,7 @@
             <link>https://vertx.io/blog/whats-new-in-vert-x-4-3</link>
             <guid>https://vertx.io/blog/whats-new-in-vert-x-4-3</guid>
             <pubDate>Thu, 12 May 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[See an overview of all new and exciting features in Vert.x 4.3, including ... and more.]]></description>
+            <description><![CDATA[See an overview of all new and exciting features in Vert.x 4.3, including Web Client URL templates, JSON schema improvements, more compression algorithms, dynamic codec lookup, and more.]]></description>
             <category>releases</category>
         </item>
         <item>

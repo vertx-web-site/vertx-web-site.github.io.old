@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vertx.io</id>
     <title>Vert.x</title>
-    <updated>2022-05-14T07:07:52.062Z</updated>
+    <updated>2022-05-14T07:51:50.700Z</updated>
     <generator>Vert.x</generator>
     <link rel="alternate" href="https://vertx.io"/>
     <link rel="self" href="https://vertx.io/feed/atom.xml"/>
@@ -17,7 +17,7 @@
         <id>https://vertx.io/blog/whats-new-in-vert-x-4-3</id>
         <link href="https://vertx.io/blog/whats-new-in-vert-x-4-3"/>
         <updated>2022-05-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[See an overview of all new and exciting features in Vert.x 4.3, including ... and more.]]></summary>
+        <summary type="html"><![CDATA[See an overview of all new and exciting features in Vert.x 4.3, including Web Client URL templates, JSON schema improvements, more compression algorithms, dynamic codec lookup, and more.]]></summary>
         <author>
             <name>Julien Viet</name>
             <uri>https://github.com/vietj</uri>
